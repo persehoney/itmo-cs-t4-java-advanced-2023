@@ -1,0 +1,38 @@
+Analyzed File: "java-advanced/java-solutions/info/kgeorgiy/ja/petrova/i18n/tests/english.txt"
+Summary statistics
+    Number of sentences: 17.
+    Number of words: 215.
+    Number of numbers: 9.
+    Number of sums: 3.
+    Number of dates: 0.
+Sentence statistics
+    Number of sentences: 17 (17 unique).
+    Minimal sentence: "A
+-10.".
+    Maximal sentence: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.".
+    Minimal length of a sentence: 6 ("A
+-10.").
+    Maximal length of a sentence: 202 ("There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.").
+    Average length of a sentence: 76,764706.
+Words statistics
+    Number of words: 215 (169 unique).
+    Minimal word: "$100".
+    Maximal word: "you".
+    Minimal length of a word: 1 ("I").
+    Maximal length of a word: 18 ("non-characteristic").
+    Average length of a word: 4,986047.
+Number statistics
+    Number count: 9 (8 unique).
+    Minimal number: 0,000010.
+    Maximal number: 1970,000000.
+    Average number: 249,966668.
+Money statistics
+    Money sum count: 3 (2 unique).
+    Minimal sum: $100.
+    Maximal sum: $200.
+    Average sum: 166,666667.
+Date statistics
+    Date count: 0 (0 unique).
+    Minimal date: null.
+    Maximal date: null.
+    Average date: null.
